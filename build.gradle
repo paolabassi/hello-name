@@ -19,5 +19,5 @@ test {
 }
 
 application{
-    mainClassName = 'dssc.hello.Main'
+    mainClass = 'dssc.hello.Main'
 }
